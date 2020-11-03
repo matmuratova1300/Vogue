@@ -1,6 +1,6 @@
 # Vogue-Style
 
-##Screenshots
+# Screenshots
 1.![descr](https://i.imgur.com/kwrBJZy.png)
 2.![descr](https://i.imgur.com/02sUKBU.png)
 3.![descr](https://i.imgur.com/98kxcLU.png)
