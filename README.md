@@ -1,4 +1,4 @@
-# Vogue-Style
+# Vogue
 
 # Screenshots
 1.![descr](https://i.imgur.com/kwrBJZy.png)
